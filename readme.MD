@@ -73,8 +73,8 @@ BashaConnect/
 ├── static/
 │   ├── styles.css            # CSS styles
 │   ├── scripts.js            # JavaScript scripts
-│   └── uploads/              # Directory to store uploaded audio files
-└── templates/
+├── uploads/                  # Directory to store uploaded audio files
+| templates/
     └── index.html            # Main HTML template
 ```
 
