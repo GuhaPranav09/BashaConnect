@@ -9,7 +9,7 @@ BashaConnect is an interactive web application designed to facilitate seamless s
 4. [Usage](#usage)
 5. [Folder Structure](#folder-structure)
 6. [Contributing](#contributing)
-7. [License](#license)
+
 
 ## Features
 
